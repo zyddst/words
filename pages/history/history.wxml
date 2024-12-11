@@ -1,0 +1,9 @@
+<view class="container">
+  <view class="history-list">
+    <view class="history-item">
+      <text class="word">Welcome</text>
+      <text class="phonetic">/ˈwelkəm/</text>
+      <text class="date">2024-03-20</text>
+    </view>
+  </view>
+</view> 
